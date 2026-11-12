@@ -1,0 +1,26 @@
+# Zetapro
+
+> Zetapro is a free mental math trainer. It has a Zetamac-style speed game (Classic), stats that show which problem types slow you down, drills built from your slow and missed problems, 80 in 8 (80 multiple-choice questions in 8 minutes), and probability and quant reasoning games for trading interview prep. It runs in the browser, installs as an offline phone app, and has a Windows app. No ads, no analytics, sign-in optional.
+
+Key facts:
+
+- Classic mode uses Zetamac's default settings: addition of numbers from 2 to 100, multiplication of 2–12 by 2–100, subtraction and division as their reverses, 120 seconds, answers accepted the moment they're right.
+- Every answer is timed and sorted by type (carries, borrows, each times table, two-digit products). Missed problems come back the next day, then 3 and 7 days later.
+- The probability and quant reasoning games cover probability and expected value, number sequences, ranking likelihoods, estimation intervals (scored lower ÷ upper), order-book arbitrage, and short speed, attention and risk games. Each has an untimed Learn mode that explains every answer and a timed Test mode.
+- Zetapro is independent and not affiliated with Zetamac or any trading firm.
+
+## Pages
+
+- [Home](https://zetapro.app/): what Zetapro is, with links to the app and the Windows download
+- [FAQ](https://zetapro.app/faq/): Zetamac comparison, what a good Zetamac score is, practicing mental math for trading interviews, phones, accounts and data
+- [Probability games](https://zetapro.app/probability-games/): what each probability and quant reasoning game trains, and how to practice with them
+- [Zetamac alternative](https://zetapro.app/zetamac-alternative/): what Zetapro keeps from Zetamac and what it adds
+
+## App
+
+- [Open Zetapro in the browser](https://zetapro.app/web/): the full app, free, also installable on phones
+- [Download for Windows](https://github.com/amirkhan0725/zetapro/releases/latest/download/Zetapro-Windows-x64.zip): the latest Windows release
+
+## Optional
+
+- [GitHub: Windows releases and issues](https://github.com/amirkhan0725/zetapro)
